@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate iOS Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashbog31&label=Profile%20views&color=0e75b6&style=flat" alt="akashbog31" />
+  <img src="https://komarev.com/ghpvc/?username=akAshbog31&label=Profile%20views&color=0e75b6&style=flat" alt="akAshbog31" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashbog31" alt="akashbogani trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akAshbog31" alt="akashbogani trophies" /></a>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ### 🏆 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashbog31&show_icons=true&locale=en" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akAshbog31&show_icons=true&locale=en" alt="Akash's GitHub Stats" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 ### 📊 Top Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashbog31&show_icons=true&locale=en&layout=compact" alt="Akash's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akAshbog31&show_icons=true&locale=en&layout=compact" alt="Akash's Top Languages" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ### 🔥 GitHub Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbog31" alt="Akash's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akAshbog31" alt="Akash's Streak" />
 </p>
 
 ---
@@ -96,8 +96,8 @@
 
 Here are some of the most exciting projects I've worked on:
 
-- 🚀 **[IG Saver](https://github.com/akashbog31/IG-Saver)**: An iOS app that allows users to repost Instagram images and videos with ease.
-- 📖 **[Mediator Plus](https://github.com/akashbog31/Mediator-Plus)**: A multilingual translation app with real-time translation features and multilingual support.
+- 🚀 **[IG Saver](https://github.com/akAshbog31/IG-Saver)**: An iOS app that allows users to repost Instagram images and videos with ease.
+- 📖 **[Mediator Plus](https://github.com/akAshbog31/Mediator-Plus)**: A multilingual translation app with real-time translation features and multilingual support.
 
 ---
 
