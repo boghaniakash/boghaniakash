@@ -84,7 +84,7 @@
 ### 🔥 GitHub Streak:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akAshbog31&theme=blueberry&hide_border=true" alt="Akash's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akAshbog31&" alt="Akash's Streak" />
 </p>
 
 ---
