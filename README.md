@@ -30,9 +30,6 @@
   <a href="https://instagram.com/boghaniakash" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Akash Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:akashboghani111@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Email-akashboghani111%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Akash" height="30" />
-  </a>
 </p>
 
 ---
