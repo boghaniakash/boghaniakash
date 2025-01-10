@@ -68,7 +68,7 @@
 ### 🏆 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akAshbog31&show_icons=true&locale=en" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akAshbog31&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Akash's GitHub Stats" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### 📊 Top Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akAshbog31&show_icons=true&locale=en&layout=compact" alt="Akash's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akAshbog31&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Akash's Top Languages" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ### 🔥 GitHub Streak:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akAshbog31" alt="Akash's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akAshbog31&theme=blueberry&hide_border=true" alt="Akash's Streak" />
 </p>
 
 ---
