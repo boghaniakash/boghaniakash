@@ -94,7 +94,7 @@
 Here are some of the most exciting projects I've worked on:
 
 - 🚀 **[IG Saver](https://apps.apple.com/app/instant-save-reel-story/id6737592600)**: An iOS app that allows users to repost Instagram images and videos with ease.
-- 📖 **[Mediator Plus](https://github.com/akAshbog31/Mediator-Plus)**: A multilingual translation app with real-time translation features and multilingual support.
+- 📖 **[Direct Message Click to Chat](https://apps.apple.com/gb/app/direct-message-click-to-chat/id6739028265)**: An iOS app that allows users to quickly initiate direct chats on WhatsApp with just a click, simplifying communication.
 
 ---
 
