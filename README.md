@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate iOS Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akAshbog31&label=Profile%20views&color=0e75b6&style=flat" alt="akAshbog31" />
+  <img src="https://komarev.com/ghpvc/?username=boghaniakash&label=Profile%20views&color=0e75b6&style=flat" alt="boghaniakash" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akAshbog31" alt="akashbogani trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boghaniakash" alt="akashbogani trophies" /></a>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 🏆 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=akAshbog31&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Akash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boghaniakash&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Akash's GitHub Stats" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 ### 📊 Top Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akAshbog31&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Akash's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boghaniakash&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Akash's Top Languages" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ### 🔥 GitHub Streak:
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akAshbog31&" alt="Akash's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boghaniakash&" alt="Akash's Streak" />
 </p>
 
 ---
