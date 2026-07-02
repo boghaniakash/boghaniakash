@@ -64,7 +64,7 @@ final class AkashBoghani {
 ```
 
 - 🍎🤖 Native mobile developer — **Swift / SwiftUI** on iOS, **Kotlin / Compose** on Android
-- 🏢 Founder @ **Trinava Tech** — I take products from idea to launch, end to end
+- 🏢 Founder @ **HexaTech Solution** — I take products from idea to launch, end to end
 - 📈 Beyond code: **ASO · monetization · paid acquisition · analytics**
 - 📊 Past life in **algo-trading** and market-data systems
 - 🧪 Always experimenting with what to build next
