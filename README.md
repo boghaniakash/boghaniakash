@@ -53,7 +53,6 @@
 ```swift
 final class AkashBoghani {
     let role      = "iOS & Android Developer"
-    let studio    = "Trinava Tech"
     let base      = "Gujarat, India 🇮🇳"
     let languages = ["Swift", "Kotlin",
                      "Python", "JavaScript"]
